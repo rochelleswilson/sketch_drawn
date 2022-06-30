@@ -1,0 +1,23 @@
+body
+{
+    background-color: palevioletred;
+    
+}
+#score
+{
+    font-size:25px;
+    float:left;
+
+}
+#timer
+{
+    font-size: 25px;
+    float:right;
+    margin-right: 10px;
+}
+#sketchdrawn
+{
+    color:rgb(19, 51, 209);
+    
+
+}
